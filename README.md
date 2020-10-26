@@ -1,4 +1,4 @@
-# Hhbuilder
+# Insurance Family Builder
 
 Your application needs a way to capture information about a household applying
 for health insurance coverage. Develop a UI for building a household up from
