@@ -1,0 +1,2 @@
+To run:
+Drag and drop index.html into a browser.
